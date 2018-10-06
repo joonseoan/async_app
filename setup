@@ -1,0 +1,12 @@
+========= fixer.io ============
+currency exchange.
+API Key: 7b8a258a1ba23b8e8cf37ec80ac0d1f6
+URL = http://data.fixer.io/api/latest?access_key=7b8a258a1ba23b8e8cf37ec80ac0d1f6&format=1
+
+
+fixe api and rest countries
+
+
+====== npm =====
+npm init
+npm install --save axios
